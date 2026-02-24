@@ -97,3 +97,4 @@ chmod +x aws_resource_list.sh
 **Olowookere Damilola**  
 AWS Certified Solutions Architect – Associate  
 Cloud / DevOps Engineer
+This is my first shell project
